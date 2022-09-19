@@ -1,0 +1,21 @@
+.abc{
+display: inline-block;
+width: 100%;
+height: 100%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.a{
+    width: 40px;
+    height: 60px;
+    border-radius: 4px solid rgb(37, 112, 37);
+}
+#ima{
+    float: left;
+    margin-left: 20px;
+    color: black;
+    width: 220px;
+    height: 220px;
+}
+img{
+    border-radius: 25px solid red;
+}
